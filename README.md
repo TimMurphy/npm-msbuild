@@ -4,9 +4,16 @@ Run msbuild.exe from [Node.js](https://nodejs.org/).
 
 **The following README is used a design guide. Implementation is taking place on the `dev` branch.**
 
+## todo
+
+- Search repository for todo
+- .eslintrs.js
+- .travis.yml
+- README badges
+
 ## Why
 
-npm-msbuild make calling msbuild.exe from node.js, especially from npm's package.json, as simple as possible.
+npm-msbuild makes calling msbuild.exe from node.js, especially from npm's package.json, as simple as possible.
  
 ## Installation
 
@@ -21,7 +28,7 @@ The recommended installation method is a local [npm](https://www.npmjs.com/) ins
 ```
 # Inside package.json...
   "scripts": {    
-    "build": "msbuild"
+    "build": "npm-msbuild"
   },
 ```
 

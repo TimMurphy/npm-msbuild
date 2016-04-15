@@ -1,0 +1,27 @@
+{
+  "name": "npm-msbuild",
+  "version": "0.0.0",
+  "description": "Run msbuild.exe from Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmurphy/npm-msbuild.git"
+  },
+  "keywords": [],
+  "author": "Tim Murphy <tim@26tp.com> (https://timmurphy.it)",
+  "contributors": [
+    "Tim Murphy <tim@26tp.com> (https://timmurphy.it)"
+  ],
+  "license": "MIT",
+  "bin": {
+    "npm-msbuild": "./bin/npm-msbuild"
+  },
+  "homepage": "https://github.com/timmurphy/npm-msbuild#readme",
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  },
+  "devDependencies": {}
+}
