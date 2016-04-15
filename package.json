@@ -20,6 +20,8 @@
     "npm-msbuild": "./bin/npm-msbuild"
   },
   "homepage": "https://github.com/timmurphy/npm-msbuild#readme",
-  "dependencies": {},
+  "dependencies": {
+    "shelljs": "^0.6.0"
+  },
   "devDependencies": {}
 }
