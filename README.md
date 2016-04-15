@@ -6,7 +6,7 @@ Run msbuild.exe from [Node.js](https://nodejs.org/).
 
 ## todo
 
-- Search repository for todo and implement
+- Search repository for todo
 - .eslintrs.js
 - .travis.yml
 - README badges
