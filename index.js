@@ -1,4 +1,5 @@
 'use strict';
 module.exports = {
-    msbuild: require('./lib/npm-msbuild'),
+    getPath: require('./lib/getPath'),
+    shell: require('./lib/shell')
 };

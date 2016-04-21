@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../lib/npm-msbuild')();
+require('../lib/shell')();
