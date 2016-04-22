@@ -1,5 +1,7 @@
 'use strict';
+
 module.exports = {
-    getPath: require('./lib/getPath'),
-    shell: require('./lib/shell')
+    cmd: require('./lib/cmd'),
+    exec: require('./lib/exec'),
+    path: require('./lib/path'),
 };
